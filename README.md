@@ -176,35 +176,17 @@ init_db.bat
 
 - 审批流
 
-
-## Contributing
-
-对于项目感兴趣，想一起贡献并完善项目请参阅[contributing](./CONTRIBUTING.md)。
-
-![img](https://www.ziji.work/gzh.jpg)
-
 ## Support
 
 * 参考[安装文档](docs/install/deploy-guide.md)
 * 阅读 [源码](https://github.com/dnsjia/luban)
 * 阅读 [wiki](https://github.com/dnsjia/luban/wiki) 或者寻求帮助
 * 直接反馈[issue](https://github.com/dnsjia/luban/issues) ，我们会定期查看与答复
-* 有兴趣的同学可以加入我们的QQ交流群，代码会持续更新，谢谢大家的支持。 QQ群: 258130203
-* 同时也欢迎大家加入Kubernetes进阶交流群：548246072
-* Golang新手交流群：44739364 
-
-加入知识星球，获取最新源码
-![img](./docs/img/xingqiu.png) 
 
 ## FAQ
 
 * [鲁班运维平台FAQ](https://github.com/dnsjia/luban/wiki)
 * [文档中心](https://docs.dnsjia.com/)
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dnsjia/luban&type=Date)](https://star-history.com/#dnsjia/luban&Date)
 
 
 ## License
